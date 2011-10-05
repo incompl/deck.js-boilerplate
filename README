@@ -1,0 +1,9 @@
+How to use:
+
+Download deck.js and put the deck.js folder in this directory.
+
+http://imakewebthings.github.com/deck.js/
+
+Then all you have to do is edit the slides in index.html and open it in your browser.
+
+Works fine served as a file rather than by a web server.
