@@ -1,0 +1,13 @@
+/* Override for styles in deck.core.css that has been
+drawing red borders on things in chromium for me. */
+.csstransforms .deck-container h1 {
+  -webkit-transform: none !important;
+  -moz-transform: none !important;
+  -ms-transform: none !important;
+  -o-transform: none !important;
+  transform: none !important;
+}
+
+.csstransforms .deck-container h1 {
+  top: 3em !important;
+}
